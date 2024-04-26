@@ -2,7 +2,7 @@
 
 
 Hi! 
-I am a senior at Chungnam National University, majoring in Computer Convergence. I am also an undergraduate researcher at the Wellness Computing Lab. 
+I am a senior at Chungnam National University, majoring in Computer Science and Engineering. I am also an undergraduate researcher at the Wellness Computing Lab. 
 **My research interests lie in human-computer interaction and digital healthcare. I am keen on identifying and defining issues arising from social structures and cultural backgrounds, and addressing them through computing technologies.**
 
 ## Here are the programming languages and platforms I am proficient in:
